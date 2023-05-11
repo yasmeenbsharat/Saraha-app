@@ -1,0 +1,10 @@
+.message{
+    background-color: #10bbb3 !important;
+
+}
+.message i{
+   transition: transform .7s;
+}
+.message:hover i{
+    transform: rotate(360deg);
+}
